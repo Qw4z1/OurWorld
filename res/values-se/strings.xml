@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="wallpaper_description">Simple world image rotation livewallpaper</string>
+	<string name="wallpaper_settings">Simple world image rotation livewallpaper</string>
+	<string name="app_name">OurWorld</string>
+	<!-- Planet string settings -->
+	<string name="planet_category">Planetinställningar</string>
+	<string name="planet_horizontal_position">Horisontell Position</string>
+	<string name="planet_horizontal_position_desc">Mitten</string>
+
+	<string name="planet_vertical_position">Vertikal Position</string>
+	<string name="planet_vertical_position_desc">Mitten</string>
+
+	<!-- Background string settings -->
+	<string name="background_category">Bakgrundsinställningar</string>
+
+	<!-- Commom -->
+	<string name="rotation_direction_title">Rotationsriktning</string>
+	<string name="rotation_direction_desc">Medurs</string>
+
+	<string name="rotation_speed_title">Rotationshastighet</string>
+	<string name="rotation_speed_desc">1x</string>
+	
+	<!-- About -->
+	<string name="about_category">Om</string>
+	<string name="about_ok">Ok</string>
+	<string name="about_description">Utvecklad av Henrique Deodato h3nr1ke@gmail.com \n\n 
+	Konst av @apps_art@\n\n
+	Se alla mina appar @apps@
+	\n
+	</string>
+</resources>
